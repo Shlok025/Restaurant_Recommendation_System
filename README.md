@@ -7,6 +7,7 @@ A **Streamlit-based web application** that delivers personalized restaurant reco
 ```
 Restaurant_Recommendation_System/
 ├── assets/
+│   └── bg.jpg
 ├── data/
 │   ├── cleaned/
 │   │   ├── cleaned_consumers.csv
