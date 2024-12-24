@@ -14,15 +14,14 @@ Restaurant_Recommendation_System/
 │   │   └── cleaned_restaurant.csv
 │   ├── preprocessed/
 │   │   └── recommendation_data.csv
-│   ├── raw/
-│   │   ├── Data Dictionary/
-│   │   │   └── data_dictionary.csv
-│   │   ├── consumer_preferences.csv
-│   │   ├── consumers.csv
-│   │   ├── ratings.csv
-│   │   ├── restaurant_cuisines.csv
-│   │   └── restaurants.csv
-│   └── dataset/
+│   └── raw/
+│       ├── Data Dictionary/
+│       │   └── data_dictionary.csv
+│       ├── consumer_preferences.csv
+│       ├── consumers.csv
+│       ├── ratings.csv
+│       ├── restaurant_cuisines.csv
+│       └── restaurants.csv  
 ├── notebooks/
 │   ├── Data_cleaning_consumers.ipynb
 │   ├── Data_cleaning_restaurant.ipynb
