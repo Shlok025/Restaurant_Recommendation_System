@@ -148,6 +148,13 @@ This preprocessing ensures:
 4. Implement the recommendation logic.
 5. Integrate with a Streamlit frontend.
 
+## Results
+Result 1:![image](https://github.com/user-attachments/assets/edcce333-1046-4740-81f1-18fd34e6a8f4)
+
+Result 2:![image](https://github.com/user-attachments/assets/01e4f18a-466f-4487-9a46-d5f50cdf58b8)
+
+Result 3:![image](https://github.com/user-attachments/assets/6d43a1c3-7398-4371-97d0-14d5f1c61d81)
+
 ## 🤝 Contributing
 
 We welcome contributions! Please follow these steps:
