@@ -5,7 +5,7 @@ A **Streamlit-based web application** that delivers personalized restaurant reco
 ## 📁 Project Structure
 
 ```
-RESTAURANT_RATINGS/
+Restaurant_Recommendation_System/
 ├── assets/
 ├── data/
 │   ├── cleaned/
